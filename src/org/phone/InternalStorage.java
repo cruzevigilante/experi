@@ -2,7 +2,7 @@ package org.phone;
 
 public class InternalStorage {
 	public void ramSize() {
-		System.out.println("Ram size is : 8GB");
+		System.out.println("Ram size is : 16GB");
 		
 	}
 	public static void main(String[] args) {
